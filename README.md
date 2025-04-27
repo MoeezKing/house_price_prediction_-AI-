@@ -14,4 +14,4 @@ step 3 # Install packages from requirements.txt
 
 ------------------------------------------------------------------
 
-bow you can run .ipynb file
+now you can run .ipynb file
